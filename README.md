@@ -6,4 +6,5 @@ This Repository demonstrates how you can make Windows better through Registry Ed
 # Settings that are also Registry
 Even though most of these following hacks can be done through Windows Settings, here is how to do it anyways!
 
-  #1.
+**1. Disable Aero Shake**
+   
