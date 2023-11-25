@@ -3,3 +3,7 @@ This Repository demonstrates how you can make Windows better through Registry Ed
 
 **Not providing any files apart from Registry Keys. Below is some you can use for Windows 8 - 11!
 
+# Settings that are also Registry
+Even though most of these following hacks can be done through Windows Settings, here is how to do it anyways!
+
+  #1.
