@@ -43,4 +43,7 @@ Here is how to do this same process in Windows Settings:
       ![Screenshot of Search](disable_aero_shake_attached_screenshots/registry_editor_search.png)
 
      ...and then navigate to the following path:
-***
+
+```
+Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\
+```
