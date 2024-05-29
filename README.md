@@ -27,3 +27,13 @@ Even though most of these following hacks can be done through Windows Settings, 
 
  Double click the entry you just created, then change the Value Data to **1** and click **OK**
 	Now, you have successfully disabled aero shake on Windows 10 or below.
+
+### **2. Enable or Disable Windows 11 Snap Assist**
+
+Windows 11 comes packaged with this new tool called **Snap Assist**. This flyout appears when you hover your cursor over the maximize button. This is how to disable the Snap Assist with Windows Settings:
+
+![Snap Assistant in System Settings](https://github.com/jerfer1111/Windows-Registry-Tweaks/blob/main/disable_aero_shake_attached_screenshots/Enable%20or%20Disable%20Win11%20Snap%20Assist%202.png?raw=true)
+
+Here is how to do this same process in Windows Settings:
+
+**Step 1**
