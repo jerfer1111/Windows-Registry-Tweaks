@@ -17,7 +17,10 @@ Even though most of these following hacks can be done through Windows Settings, 
       ![Screenshot of Search](disable_aero_shake_attached_screenshots/registry_editor_search.png)
 
 **Step 1**: Navigate to the following path:
+
+	```
 	Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+ 	```
  ***
 
  ![Screenshot of Search](https://github.com/jerfer1111/Windows-Registry-Tweaks/blob/main/disable_aero_shake_attached_screenshots/Disable%20Aero%20Shake%20Picture%202.png?raw=true)
