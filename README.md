@@ -13,3 +13,7 @@ Even though most of these following hacks can be done through Windows Settings, 
 
    1. Open the Registry Editor:
      ![Screenshot of Search](disable_aero_shake_attached_screenshots/registry_editor_search.png)
+
+Step 1: Navigate to the following path: 0969DA
+	***Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced***
+
